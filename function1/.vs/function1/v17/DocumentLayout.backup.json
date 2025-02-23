@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks.doooooooooooooooo\\function1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\Square.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\Square.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\SayHello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\SayHello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\DateTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\DateTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\Math.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\Math.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\Time.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\Time.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Square.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\function1\\function1\\Square.c",
+              "RelativeDocumentMoniker": "function1\\Square.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\function1\\function1\\Square.c",
+              "RelativeToolTip": "function1\\Square.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-16T02:41:19.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayHello.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\function1\\function1\\SayHello.c",
+              "RelativeDocumentMoniker": "function1\\SayHello.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\function1\\function1\\SayHello.c",
+              "RelativeToolTip": "function1\\SayHello.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-16T02:27:46.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateTime.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\function1\\function1\\DateTime.c",
+              "RelativeDocumentMoniker": "function1\\DateTime.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\function1\\function1\\DateTime.c",
+              "RelativeToolTip": "function1\\DateTime.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-15T02:15:45.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Time.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\function1\\function1\\Time.c",
+              "RelativeDocumentMoniker": "function1\\Time.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\function1\\function1\\Time.c",
+              "RelativeToolTip": "function1\\Time.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-15T01:40:43.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Math.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\function1\\function1\\Math.c",
+              "RelativeDocumentMoniker": "function1\\Math.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\function1\\function1\\Math.c",
+              "RelativeToolTip": "function1\\Math.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-15T01:26:19.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "function.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\function1\\function1\\function.c",
+              "RelativeDocumentMoniker": "function1\\function.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\function1\\function1\\function.c",
+              "RelativeToolTip": "function1\\function.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-15T00:47:28.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
