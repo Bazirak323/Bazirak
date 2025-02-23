@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\cworks.doooooooooooooooo\\Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F111C5D8-9215-4EEA-8105-52A8A411AFEA}|Arrays\\Arrays.vcxproj|C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F111C5D8-9215-4EEA-8105-52A8A411AFEA}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F111C5D8-9215-4EEA-8105-52A8A411AFEA}|Arrays\\Arrays.vcxproj|C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\StringFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F111C5D8-9215-4EEA-8105-52A8A411AFEA}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\StringFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F111C5D8-9215-4EEA-8105-52A8A411AFEA}|Arrays\\Arrays.vcxproj|C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\calcuratermain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F111C5D8-9215-4EEA-8105-52A8A411AFEA}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\calcuratermain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -58,23 +66,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "UpperCase.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\UpperCase.c",
+              "RelativeDocumentMoniker": "Arrays\\UpperCase.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\UpperCase.c",
+              "RelativeToolTip": "Arrays\\UpperCase.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-23T02:24:07.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringFunction.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\StringFunction.c",
+              "RelativeDocumentMoniker": "Arrays\\StringFunction.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\StringFunction.c",
+              "RelativeToolTip": "Arrays\\StringFunction.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-23T01:45:27.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Calculater.h",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\Calculater.h",
               "RelativeDocumentMoniker": "Arrays\\Calculater.h",
               "ToolTip": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\Calculater.h",
               "RelativeToolTip": "Arrays\\Calculater.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-23T00:38:55.73Z"
+              "WhenOpened": "2025-02-23T00:38:55.73Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Calculater.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\Calculater.c",
               "RelativeDocumentMoniker": "Arrays\\Calculater.c",
@@ -82,24 +117,25 @@
               "RelativeToolTip": "Arrays\\Calculater.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-23T00:37:29.754Z"
+              "WhenOpened": "2025-02-23T00:37:29.754Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "calcuratermain.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\calcuratermain.c",
               "RelativeDocumentMoniker": "Arrays\\calcuratermain.c",
               "ToolTip": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\calcuratermain.c",
               "RelativeToolTip": "Arrays\\calcuratermain.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-23T00:31:38.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "StaticVar.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\StaticVar.c",
               "RelativeDocumentMoniker": "Arrays\\StaticVar.c",
@@ -111,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "local.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\local.c",
               "RelativeDocumentMoniker": "Arrays\\local.c",
@@ -123,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "glovalvar.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\glovalvar.c",
               "RelativeDocumentMoniker": "Arrays\\glovalvar.c",
@@ -135,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Function3.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\Function3.c",
               "RelativeDocumentMoniker": "Arrays\\Function3.c",
@@ -147,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Function.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\Function.c",
               "RelativeDocumentMoniker": "Arrays\\Function.c",
@@ -159,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Arrays2.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\Arrays2.c",
               "RelativeDocumentMoniker": "Arrays\\Arrays2.c",
@@ -171,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ArrayString.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\ArrayString.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayString.c",
@@ -183,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ArrayChar.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\ArrayChar.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayChar.c",
@@ -195,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Array1.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays\\Arrays\\Array1.c",
               "RelativeDocumentMoniker": "Arrays\\Array1.c",

@@ -138,6 +138,8 @@
     <ClCompile Include="glovalvar.c" />
     <ClCompile Include="local.c" />
     <ClCompile Include="StaticVar.c" />
+    <ClCompile Include="StringFunction.c" />
+    <ClCompile Include="UpperCase.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Calculater.h" />

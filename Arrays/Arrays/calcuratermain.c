@@ -1,6 +1,6 @@
 #include <stdio.h> // 얘가 만든 헤더
 #include "Calculater.h" // 내가 만든 헤더
-int main()
+int main_kkkak()
 {
 	int x = 3, y = 4, result;
 	count++;
