@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks.doooooooooooooooo\\Arrays22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDDD02-0A1A-4197-B479-EA3F32BC7BED}|Arrays22\\Arrays22.vcxproj|C:\\cworks.doooooooooooooooo\\Arrays22\\Arrays22\\ArrayAddRemove2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADDDDD02-0A1A-4197-B479-EA3F32BC7BED}|Arrays22\\Arrays22.vcxproj|solutionrelative:Arrays22\\ArrayAddRemove2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDDD02-0A1A-4197-B479-EA3F32BC7BED}|Arrays22\\Arrays22.vcxproj|C:\\cworks.doooooooooooooooo\\Arrays22\\Arrays22\\ArrayAddRemove.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADDDDD02-0A1A-4197-B479-EA3F32BC7BED}|Arrays22\\Arrays22.vcxproj|solutionrelative:Arrays22\\ArrayAddRemove.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayAddRemove2.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays22\\Arrays22\\ArrayAddRemove2.c",
+              "RelativeDocumentMoniker": "Arrays22\\ArrayAddRemove2.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\Arrays22\\Arrays22\\ArrayAddRemove2.c",
+              "RelativeToolTip": "Arrays22\\ArrayAddRemove2.c",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-08T00:32:59.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayAddRemove.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Arrays22\\Arrays22\\ArrayAddRemove.c",
+              "RelativeDocumentMoniker": "Arrays22\\ArrayAddRemove.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\Arrays22\\Arrays22\\ArrayAddRemove.c",
+              "RelativeToolTip": "Arrays22\\ArrayAddRemove.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-08T00:14:56.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

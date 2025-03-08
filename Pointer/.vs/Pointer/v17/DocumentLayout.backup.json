@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks.doooooooooooooooo\\Pointer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F71BE87-FB9C-4699-9E7F-D3E7F514C006}|Pointer\\Pointer.vcxproj|C:\\cworks.doooooooooooooooo\\Pointer\\Pointer\\CallByRef.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F71BE87-FB9C-4699-9E7F-D3E7F514C006}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\CallByRef.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F71BE87-FB9C-4699-9E7F-D3E7F514C006}|Pointer\\Pointer.vcxproj|C:\\cworks.doooooooooooooooo\\Pointer\\Pointer\\ChangeArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F71BE87-FB9C-4699-9E7F-D3E7F514C006}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\ChangeArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F71BE87-FB9C-4699-9E7F-D3E7F514C006}|Pointer\\Pointer.vcxproj|C:\\cworks.doooooooooooooooo\\Pointer\\Pointer\\PointerArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F71BE87-FB9C-4699-9E7F-D3E7F514C006}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\PointerArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F71BE87-FB9C-4699-9E7F-D3E7F514C006}|Pointer\\Pointer.vcxproj|C:\\cworks.doooooooooooooooo\\Pointer\\Pointer\\Pointer1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F71BE87-FB9C-4699-9E7F-D3E7F514C006}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\Pointer1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CallByRef.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Pointer\\Pointer\\CallByRef.c",
+              "RelativeDocumentMoniker": "Pointer\\CallByRef.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\Pointer\\Pointer\\CallByRef.c",
+              "RelativeToolTip": "Pointer\\CallByRef.c",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-08T02:42:12.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangeArray.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Pointer\\Pointer\\ChangeArray.c",
+              "RelativeDocumentMoniker": "Pointer\\ChangeArray.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\Pointer\\Pointer\\ChangeArray.c",
+              "RelativeToolTip": "Pointer\\ChangeArray.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-08T02:33:01.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointerArray.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Pointer\\Pointer\\PointerArray.c",
+              "RelativeDocumentMoniker": "Pointer\\PointerArray.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\Pointer\\Pointer\\PointerArray.c",
+              "RelativeToolTip": "Pointer\\PointerArray.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-08T01:39:21.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pointer1.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\Pointer\\Pointer\\Pointer1.c",
+              "RelativeDocumentMoniker": "Pointer\\Pointer1.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\Pointer\\Pointer\\Pointer1.c",
+              "RelativeToolTip": "Pointer\\Pointer1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-08T01:15:15.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
