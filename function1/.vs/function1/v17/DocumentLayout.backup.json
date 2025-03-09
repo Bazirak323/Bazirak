@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\cworks.doooooooooooooooo\\function1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\Square.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\Square.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\SayHello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\SayHello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\DateTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\DateTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\StringGetchar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\StringGetchar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -25,6 +21,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\Time.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\Time.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\DateTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\DateTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\SayHello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\SayHello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\Square.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\Square.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|C:\\cworks.doooooooooooooooo\\function1\\function1\\Rand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{617DB1C9-9456-43DD-A75D-5CC234E4F5C4}|function1\\function1.vcxproj|solutionrelative:function1\\Rand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,50 +46,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rand.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\function1\\function1\\Rand.c",
+              "RelativeDocumentMoniker": "function1\\Rand.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\function1\\function1\\Rand.c",
+              "RelativeToolTip": "function1\\Rand.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-09T01:27:08.578Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TypingGame.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\function1\\function1\\TypingGame.c",
+              "RelativeDocumentMoniker": "function1\\TypingGame.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\function1\\function1\\TypingGame.c*",
+              "RelativeToolTip": "function1\\TypingGame.c*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-09T02:28:32.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringGetchar.c",
+              "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\function1\\function1\\StringGetchar.c",
+              "RelativeDocumentMoniker": "function1\\StringGetchar.c",
+              "ToolTip": "C:\\cworks.doooooooooooooooo\\function1\\function1\\StringGetchar.c",
+              "RelativeToolTip": "function1\\StringGetchar.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-09T02:08:58.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Square.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\function1\\function1\\Square.c",
               "RelativeDocumentMoniker": "function1\\Square.c",
               "ToolTip": "C:\\cworks.doooooooooooooooo\\function1\\function1\\Square.c",
               "RelativeToolTip": "function1\\Square.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-16T02:41:19.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "SayHello.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\function1\\function1\\SayHello.c",
               "RelativeDocumentMoniker": "function1\\SayHello.c",
               "ToolTip": "C:\\cworks.doooooooooooooooo\\function1\\function1\\SayHello.c",
               "RelativeToolTip": "function1\\SayHello.c",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-16T02:27:46.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "DateTime.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\function1\\function1\\DateTime.c",
               "RelativeDocumentMoniker": "function1\\DateTime.c",
               "ToolTip": "C:\\cworks.doooooooooooooooo\\function1\\function1\\DateTime.c",
               "RelativeToolTip": "function1\\DateTime.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-15T02:15:45.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Time.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\function1\\function1\\Time.c",
               "RelativeDocumentMoniker": "function1\\Time.c",
@@ -85,11 +137,12 @@
               "RelativeToolTip": "function1\\Time.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-15T01:40:43.888Z"
+              "WhenOpened": "2025-02-15T01:40:43.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Math.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\function1\\function1\\Math.c",
               "RelativeDocumentMoniker": "function1\\Math.c",
@@ -97,11 +150,12 @@
               "RelativeToolTip": "function1\\Math.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-15T01:26:19.275Z"
+              "WhenOpened": "2025-02-15T01:26:19.275Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "function.c",
               "DocumentMoniker": "C:\\cworks.doooooooooooooooo\\function1\\function1\\function.c",
               "RelativeDocumentMoniker": "function1\\function.c",
@@ -109,7 +163,8 @@
               "RelativeToolTip": "function1\\function.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-15T00:47:28.301Z"
+              "WhenOpened": "2025-02-15T00:47:28.301Z",
+              "EditorCaption": ""
             }
           ]
         }

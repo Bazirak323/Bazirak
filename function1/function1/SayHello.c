@@ -13,7 +13,7 @@ void sayName(char name[]) {
 
 }
 
-int main()
+int main__xx()
 {
 
 	sayHello(); // 함수 호출

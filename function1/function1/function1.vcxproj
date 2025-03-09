@@ -130,9 +130,12 @@
     <ClCompile Include="DateTime.c" />
     <ClCompile Include="function.c" />
     <ClCompile Include="Math.c" />
+    <ClCompile Include="Rand.c" />
     <ClCompile Include="SayHello.c" />
     <ClCompile Include="Square.c" />
+    <ClCompile Include="StringGetchar.c" />
     <ClCompile Include="Time.c" />
+    <ClCompile Include="TypingGame.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

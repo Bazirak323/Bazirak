@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Array2D.c" />
     <ClCompile Include="ArrayAddRemove.c" />
     <ClCompile Include="ArrayAddRemove2.c" />
   </ItemGroup>
