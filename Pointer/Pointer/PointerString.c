@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main_ddddsdsdsdsdsd()
 {
 	char word[] = "apple"; //1차원 배열(문자열)
 	char wordd[3][100] = { "apple", "banana", "mango"}; // 2차원 배열(10개가 3개씩 있다.->[단어의 갯수][철자의 최대개수]
